@@ -1,4 +1,4 @@
-<img width="296" alt="image" src="https://github.com/user-attachments/assets/c34d8c4a-2150-4fe8-be7c-74b336001e56" />Academic Fee Payment System in ADA — Haskell Mini-Project
+
 This small system was developed as part of a Marathon organized by Coxygen, within the framework of the Haskell Plutus learning program, a project funded by Project Catalyst.
 
 The goal was to design a simple Haskell-based application to simulate the recording of academic fee payments in ADA (cryptocurrency) for students at our institution, ISDR-GL.
